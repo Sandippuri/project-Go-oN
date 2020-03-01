@@ -46,7 +46,7 @@ a:active{
     float: none;
 }
 #showcase{
-    background-image: url('img.jpg');
+    background-image: url('Images/img.jpg');
     text-align: center;
     background-position: center;
     min-height: 200px;
@@ -59,7 +59,7 @@ a:active{
     padding-top: 30px;
 }
 .container{
-    background-image: url('b.jpg');
+    background-image: url('Images/b.jpg');
     background-position: center;
     color: white;
 }
